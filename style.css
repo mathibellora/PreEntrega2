@@ -43,3 +43,20 @@ footer {
     width: 100%;
     bottom: 0;
 }
+
+table{
+    border: solid 1px black;
+    text-align: center;
+  }
+  
+table td{
+    border: solid 1px black;
+  }
+
+.advertencia {
+    color: red;
+}
+
+#resultado {
+    color: green;
+}
